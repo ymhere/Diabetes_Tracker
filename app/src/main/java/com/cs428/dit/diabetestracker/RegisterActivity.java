@@ -49,7 +49,7 @@ public class RegisterActivity extends AppCompatActivity {
                     }
                     @Override
                     public void onError(FirebaseError firebaseError) {
-                        System.out.println("-");
+                        System.out.println("-----");
                     }
                 });
             }
